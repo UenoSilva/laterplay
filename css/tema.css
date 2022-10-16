@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2 family=Economica:wght@400;700&display=swap');
+
+
+
+* {
+   font-family: 'Economica';
+   font-size: 16px;
+}
+
+
+
+
+.set-imagem {
+    height: 100vh;
+    background-image: url(../assets/img/imagebackground.png);
+    background-size: cover;
+    background-position: center;   
+}
+
+.cor-fundo {
+    margin-top: 10vh;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.363);
+}
+
+.tam {
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
+
+.pad {
+    padding: 100px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.social a {
+    display: block;
+    
+    /*text-indent: -9999px;*/
+}
+
+.social li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.social img {
+    width: 48px;
+    height: 48px;
+}
+
+
+.mar {
+    margin-left: -30px;
+}
+
+
+/* Cores do tema*/
+
+.tema-primary {
+    background-color: #ff914d;
+}
+
+.tema-secondary {
+    background-color: #171810;
+}
+
+
+
+.img-icone {
+    padding: 20px;
+    width: 80px;
+
+}
+
+.borda {
+    margin: 5px 0 5px 0;
+    border: #ff914d 1px solid;
+}
+
+
+.img-logo {
+    width: 50px;
+}
+
+/* Telas do aplicativo*/
+
+.telas {
+    width: 200px;
+    height: 350px;
+}
+
+
+/* Copyright Section */
+#cor {
+    color: #ff914d;
+}
+
+
+/* Logos */
+
+#logo-ufpa {
+    max-width: 200px;
+}
+
+#logo-fecomp {
+    max-width: 200px;
+}
+
+/* Instituições */
+
+.social-2 a {
+    display: block;
+    
+    /*text-indent: -9999px;*/
+}
+
+.social-2 li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.social-2 img {
+    width: 300px;
+    
+}
